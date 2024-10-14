@@ -2,7 +2,7 @@
 	<a href="https://frappe.io/hr">
 		<img src="https://github.com/Altrix-One/hrms/blob/develop/hrms/hrms.png" height="128" alt="Altrix One HR Logo">
 	</a>
-	<h2>Frappe HR</h2>
+	<h2>Altrix One HR</h2>
 	<p align="center">
 		<p>Open Source, modern, and easy-to-use HR and Payroll Software for all organizations</p>
 	</p>
